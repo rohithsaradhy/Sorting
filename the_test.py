@@ -7,7 +7,7 @@ from quick_sort import quick_sort
 
 
 # Testing the code for different List size
-N = [10,100,1000,10000]
+N = [10,50,100,500,1000,5000,10000,50000,100000]
 # time to record the complexity for quick sort and bubble sort
 time_quick = []
 time_bubble = []

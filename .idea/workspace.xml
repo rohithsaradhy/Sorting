@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b4d9969-249c-45ce-8caa-a2e20a88e41f" name="Default" comment="Simple programme for bubble sort!">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/untitled.iml" afterPath="$PROJECT_DIR$/.idea/Sorting.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bubble_sort.py" afterPath="$PROJECT_DIR$/bubble_sort.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quick_sort.py" afterPath="$PROJECT_DIR$/quick_sort.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset.txt" afterPath="$PROJECT_DIR$/dataset.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/the_test.py" afterPath="$PROJECT_DIR$/the_test.py" />
     </list>
     <ignored path="untitled.iws" />
@@ -32,8 +27,8 @@
       <file leaf-file-name="the_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/the_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44884488">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.5792079">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding>
                 <element signature="e#95#108#0" expanded="true" />
               </folding>
@@ -423,10 +418,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Graph1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/the_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44884488">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.5792079">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="e#95#108#0" expanded="true" />
           </folding>
