@@ -49,9 +49,9 @@ def main():
     RList = []
     for i in range(0, N):
         RList.append(int(random.random() * 1000000))
-        # Printing the List
-        for i in RList:
-            print i
+    # Printing the List
+    for i in RList:
+        print i
     # Running Quick Sort
     A = quick_sort(RList)
     # Printing it out
