@@ -7,7 +7,7 @@ from quick_sort import quick_sort
 
 
 # Testing the code for different List size
-N = [10,100,1000,10000,100000]
+N = [10,100,1000,10000]
 # time to record the complexity for quick sort and bubble sort
 time_quick = []
 time_bubble = []
@@ -28,5 +28,5 @@ for n in N:
 f = open('dataset.txt','w')
 for i in range(0,len(N)):
     f.write(str(N[i])+"  " + str(time_quick[i]) + "  " + str(time_bubble[i]) + "  " + "\n")
-f.close() # you can omit in most cases as the destructor will call it
+f.close()
 

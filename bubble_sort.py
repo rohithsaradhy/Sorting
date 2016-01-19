@@ -17,21 +17,27 @@ def bubble_sort(A):
 
 
 
-# Getting the length of the List
-N = int(raw_input("Please Enter the List size N \n"))
-print " You Entered", N
-# Defining Random List of size N
-RList = []
-for i in range(0, N):
-    RList.append(int(random.random() * 10000))
-# Printing the List
-for i in RList:
-    print i
-# Running Quick Sort
-sorted_list = bubble_sort(RList)
-# Printing it out
-print("********")
-print "After Sorting"
 
-for i in sorted_list:
-    print i
+def main():
+    # Getting the length of the List
+    N = int(raw_input("Please Enter the list size N \n"))
+    print " You Entered", N
+    # Defining Random List of size N
+    RList = []
+    for i in range(0, N):
+        RList.append(int(random.random() * 10000))
+    # Printing the List
+    for i in RList:
+        print i
+    # Running Quick Sort
+    sorted_list = bubble_sort(RList)
+    # Printing it out
+    print("********")
+    print "After Sorting"
+
+    for i in sorted_list:
+        print i
+
+
+if __name__ == "__main__":
+    main()
